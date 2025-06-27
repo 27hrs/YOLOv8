@@ -1,0 +1,5 @@
+path: E:\PY\YOLOv8\xl
+train: images/train
+val: images/val
+nc: 1
+names: ['香烟']
